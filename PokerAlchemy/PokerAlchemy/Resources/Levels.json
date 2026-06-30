@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "recipeIDs": [101, 102],
+    "cardPoolCodes": ["SA","H2","D3","C4","S5","H6","D7","C8","S9","H10","DJ","CQ","SK","HA","D2","C3"],
+    "initialSteam": 100,
+    "initialHandCount": 5
+  },
+  {
+    "id": 2,
+    "recipeIDs": [201, 202],
+    "cardPoolCodes": ["S2","H3","D4","C5","S6","H7","D8","C9","S10","HJ","DQ","CK","SA","H2","D3","C4","S5","H6"],
+    "initialSteam": 120,
+    "initialHandCount": 5
+  },
+  {
+    "id": 3,
+    "recipeIDs": [301, 302],
+    "cardPoolCodes": ["HA","DA","CA","SA","HK","DK","CK","SK","HQ","DQ","CQ","SQ","HJ","DJ","CJ","SJ","H10","D10"],
+    "initialSteam": 150,
+    "initialHandCount": 5
+  }
+]
